@@ -21,7 +21,7 @@ Welcome to my Data Analytics & Business Intelligence portfolio repository! This 
 ### Superstore Dashboard Gallery:
 ![Superstore Dashboard 1](Superstore%201.png)
 ![Superstore Dashboard 2](Superstore%202.png)
-![Superstore Dashboard 3](Superstore%203.png)
+![Superstore Dashboard 3](superstore%203.png)
 ![Superstore Dashboard 4](Superstore%204.png)
 ![Superstore Dashboard 5](Superstore%205.png)
 ![Superstore Dashboard 6](Superstore%206.png)
