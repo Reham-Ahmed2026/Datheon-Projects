@@ -4,7 +4,7 @@ Welcome to my Data Analytics & Business Intelligence portfolio repository! This 
 
 ---
 
-## 🛠️ Task 1: Excel Data Cleaning, Power Query & Data Modeling & Data Normalization
+## 🛠️ Task 1: Excel Data Cleaning, Power Query & Data Modeling
 * **Objective:** Transform raw, unorganized data into a clean, structured analytical model using Microsoft Excel.
 * **Tools Used:** Microsoft Excel, Power Query, Pivot Tables.
 * **Deliverable:** Clean Excel Workbook (`Task1.xlsx`) with full ETL steps and analytical Pivot Tables.
@@ -19,18 +19,22 @@ Welcome to my Data Analytics & Business Intelligence portfolio repository! This 
 * **Deliverable:** Interactive Power BI Dashboard.
 
 ### Superstore Dashboard Gallery:
+![Superstore Dashboard 1](Superstore%201.png)
 ![Superstore Dashboard 2](Superstore%202.png)
+![Superstore Dashboard 3](Superstore%203.png)
 ![Superstore Dashboard 4](Superstore%204.png)
 ![Superstore Dashboard 5](Superstore%205.png)
 ![Superstore Dashboard 6](Superstore%206.png)
-![Superstore Dashboard 2](Superstore%203.png)
+
 ---
 
 ## 👥 Task 3: Customer Behavior, Cohort Retention & Churn Analysis
 * **Objective:** Analyze customer acquisition, retention rates, and churn patterns (`Task 3.pbix`).
 * **Tools Used:** Power BI Desktop, Advanced DAX, Cohort Modeling.
 
-![Task 3 Cohort Dashboard](customer%20telco.png)
+### Telco Customer Analytics & Cohort Dashboards:
+![Telco Customer Dashboard 1](customer%20telco.png)
+![Telco Customer Dashboard 2](customer%20telco%202.png)
 
 ---
 
@@ -39,7 +43,7 @@ Welcome to my Data Analytics & Business Intelligence portfolio repository! This 
 * **Tools Used:** Power BI Desktop, DAX, Financial Modeling, What-If Parameters[cite: 1].
 
 ![Task 4 Financial Dashboard](income%20Statement.png)
-
+![Financial Dashboard Details](dashboard%20d.png)
 ---
 
 ## 🚀 How to Explore & Connect
